@@ -4,9 +4,15 @@
 ## Overview
 UpTide is an e-learning app designed to be fun and stimulating. 
 ## Built With
-
+This section lists the major frameworks/libraries used to bootstrap the project.
+- Swift
+- SwiftUI
+- CoreLocation
+- CoreData
+- Firebase
+- Cocoa Touch
 ## Getting Started
-[Go to Overview Section (#-this-is-Overview)
+[Go to Overview Section (#-Overview)
 ## Contributing
 ## Contact
 ## Acknowledgments
