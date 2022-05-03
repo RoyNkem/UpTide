@@ -3,4 +3,10 @@
 # UpTide
 ## Overview
 UpTide is an e-learning app designed to be fun and stimulating. 
+## Built With
 
+## Getting Started
+[Go to Overview Section (#-this-is-Overview)
+## Contributing
+## Contact
+## Acknowledgments
