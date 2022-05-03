@@ -9,12 +9,12 @@ UpTide is an e-learning app designed to be fun and stimulating.
 
 ## Built With
 This section lists the major frameworks/libraries used to bootstrap the project.
-- Swift
-- SwiftUI
-- CoreLocation
-- CoreData
-- Firebase
-- Cocoa Touch
+- [Swift](https://developer.apple.com/swift/)
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- [CoreLocation](https://developer.apple.com/documentation/corelocation)
+- [CoreData](https://developer.apple.com/documentation/coredata)
+- [Firebase](https://firebase.google.com)
+- [Cocoa Touch](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
