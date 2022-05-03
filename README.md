@@ -2,13 +2,13 @@
 
 # UpTide
 ## Features
-UpTide is an e-learning app designed to be fun and stimulating. 
+`UpTide` is an e-learning app designed to be fun and stimulating. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ## Built With
-This section lists the major frameworks/libraries used to bootstrap the project.
+This section lists the major `frameworks/libraries` used to bootstrap the project.
 - [Swift](https://developer.apple.com/swift/)
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [CoreLocation](https://developer.apple.com/documentation/corelocation)
@@ -24,15 +24,26 @@ This section lists the major frameworks/libraries used to bootstrap the project.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Contributing
+## Contributing & Issues
+- Simply fork the repo, make changes and make a pull request
+- You can open an issue for support or suggestions
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Authors
+- [Roy Aiyetin](https://github.com/RoyNkem)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
+- [UpTide]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Acknowledgments
+- [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- [Hacking With SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
