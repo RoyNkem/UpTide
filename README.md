@@ -12,7 +12,7 @@ This section lists the major frameworks/libraries used to bootstrap the project.
 - Firebase
 - Cocoa Touch
 ## Getting Started
-[Go to Features Section (#-features)
+[Go to Features Section](#-features)
 ## Contributing
 ## Contact
 
