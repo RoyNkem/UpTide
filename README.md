@@ -17,19 +17,14 @@
 <a href="https://stackoverflow.com" target="_blank"> <img src="https://img.shields.io/badge/stackoverflow-f58023?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow"/> </a>
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Getting Started
 [Go to Features Section](#-features)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ## Contributing & Issues
 - Simply fork the repo, make changes and make a pull request
 - You can open an issue for support or suggestions
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Authors
 - [Roy Aiyetin](https://github.com/RoyNkem)
@@ -39,7 +34,6 @@
 ## Contact
 - [UpTide]()
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Acknowledgments
 - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
