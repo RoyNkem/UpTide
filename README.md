@@ -4,8 +4,6 @@
 ## Features
 `UpTide` is an e-learning app designed to be fun and stimulating. 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 # Built with :heavy_heart_exclamation: using
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.shields.io/badge/Xcode-1882e8?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/> </a> 
