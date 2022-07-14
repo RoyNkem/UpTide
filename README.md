@@ -15,10 +15,6 @@
 <a href="https://stackoverflow.com" target="_blank"> <img src="https://img.shields.io/badge/stackoverflow-f58023?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow"/> </a>
 
 
-## Getting Started
-[Go to Features Section](#-features)
-
-
 ## Contributing & Issues
 - Simply fork the repo, make changes and make a pull request
 - You can open an issue for support or suggestions
